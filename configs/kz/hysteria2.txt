@@ -1,1 +1,6 @@
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20749910
+hysteria2://rstnnl2705%3A56Uhk1CcaR5mCmGpaN0AsOAmRscZSIaM@2.26.97.21:8443?insecure=1&obfs=salamander&obfs-password=hH0l2Acqz3RtodoSCNCpNJqDSZtp4Qw&sni=musicclips.videolinks.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20915966
+hysteria2://masir_sefid@18.157.51.145:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443%2C2053%2C2083%2C2087%2C2096%2C8443&sni=content.masir-sefid.shop#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20811389
+hysteria2://rstnnl2705%3AZmRjX7MkeEqZ5GQUIT5VO53ARuy6nrmQ@144.31.224.163:8932?insecure=1&obfs=salamander&obfs-password=CvxXZnSth1bVJKGFP2cof4rI52ifHJ2W&sni=nrealistic.nn-foto.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20412097
+hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20308257
+hysteria2://IG9Sundefinedvx6RJ@47.76.94.197:58771?insecure=1&sni=go.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20221987
+hysteria2://ff488c48-b745-4d65-a6a1-0339be0b7fd7@152.70.38.156:15219?sni=okrs01.7770123.xyz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20590615
