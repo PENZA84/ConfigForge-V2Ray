@@ -1,6 +1,11 @@
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433/?insecure=1&sni=de2.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20656086
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?insecure=1&sni=de2.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20329125
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20904440
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20243371
-hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20703867
-hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20252588
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433/?insecure=1&sni=de2.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20920334
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?insecure=1&sni=de2.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20247788
+hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20595397
+hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20686201
+hysteria2://Masir_Sefid@206.189.58.246:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api1.masir-sefid-1.my#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20119786
+hysteria2://Masir_Sefid@206.189.58.246:2053?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api1.masir-sefid-1.my#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20240233
+hysteria2://Masir_Sefid@206.189.58.246:2087?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api1.masir-sefid-1.my#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20640147
+hysteria2://Masir_Sefid@206.189.58.246:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api1.masir-sefid-1.my#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20942438
+hysteria2://Masir_Sefid@206.189.58.246:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api1.masir-sefid-1.my#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20373227
+hysteria2://Masir_Sefid@206.189.58.246:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api1.masir-sefid-1.my#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20416026
+hysteria2://Masir_Sefid@206.189.58.246:8443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api1.masir-sefid-1.my#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20328300
